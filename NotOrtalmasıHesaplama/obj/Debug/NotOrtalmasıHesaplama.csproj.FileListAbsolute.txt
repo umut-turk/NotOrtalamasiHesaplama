@@ -1,0 +1,8 @@
+C:\Users\UMUT TÜRK\Desktop\banka\NotOrtalmasıHesaplama\NotOrtalmasıHesaplama\bin\Debug\NotOrtalmasıHesaplama.exe.config
+C:\Users\UMUT TÜRK\Desktop\banka\NotOrtalmasıHesaplama\NotOrtalmasıHesaplama\bin\Debug\NotOrtalmasıHesaplama.exe
+C:\Users\UMUT TÜRK\Desktop\banka\NotOrtalmasıHesaplama\NotOrtalmasıHesaplama\bin\Debug\NotOrtalmasıHesaplama.pdb
+C:\Users\UMUT TÜRK\Desktop\banka\NotOrtalmasıHesaplama\NotOrtalmasıHesaplama\obj\Debug\NotOrtalmasıHesaplama.csproj.AssemblyReference.cache
+C:\Users\UMUT TÜRK\Desktop\banka\NotOrtalmasıHesaplama\NotOrtalmasıHesaplama\obj\Debug\NotOrtalmasıHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\UMUT TÜRK\Desktop\banka\NotOrtalmasıHesaplama\NotOrtalmasıHesaplama\obj\Debug\NotOrtalmasıHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\UMUT TÜRK\Desktop\banka\NotOrtalmasıHesaplama\NotOrtalmasıHesaplama\obj\Debug\NotOrtalmasıHesaplama.exe
+C:\Users\UMUT TÜRK\Desktop\banka\NotOrtalmasıHesaplama\NotOrtalmasıHesaplama\obj\Debug\NotOrtalmasıHesaplama.pdb
